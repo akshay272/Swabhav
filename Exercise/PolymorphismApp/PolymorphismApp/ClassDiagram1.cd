@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PolymorphismApp.Program">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolymorphismApp.Model.Polymorphism">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Model\Polymorphism.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolymorphismApp.Doctor" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Interface Name="PolymorphismApp.Doctor.checkUp" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\Doctor.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Interface>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolymorphismApp.FamilyDoctor" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Interface Name="PolymorphismApp.FamilyDoctor.Check" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\FamilyDoctor.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Interface>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\FamilyDoctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolymorphismApp.Surgeon" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Interface Name="PolymorphismApp.Surgeon.Checkup" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\Surgeon.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Interface>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Surgeon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

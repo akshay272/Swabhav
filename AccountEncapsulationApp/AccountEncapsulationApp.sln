@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountEncapsulationApp", "AccountEncapsulationApp\AccountEncapsulationApp.csproj", "{D930C562-B875-4ED3-AD08-701000F5AF09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D930C562-B875-4ED3-AD08-701000F5AF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D930C562-B875-4ED3-AD08-701000F5AF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D930C562-B875-4ED3-AD08-701000F5AF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D930C562-B875-4ED3-AD08-701000F5AF09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE6D1C3-300A-4B0E-819E-0FEBA08C2227}
+	EndGlobalSection
+EndGlobal

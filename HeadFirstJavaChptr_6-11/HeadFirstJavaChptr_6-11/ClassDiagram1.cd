@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HeadFirstJavaChptr_6_11.Chapter7.Doctor" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chapter7\Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeadFirstJavaChptr_6_11.Chapter7.FamilyDoctor" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chapter7\FamilyDoctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeadFirstJavaChptr_6_11.Chapter7.Surgeon" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chapter7\Surgeon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeadFirstJavaChptr_6_11.Program">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAQAAAAAAAAAAIAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeadFirstJavaChptr_6_11.Chapter8.Polymorphism">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Chapter8\Polymorphism.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeadFirstJavaChptr_6_11.Petient">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIAAAAAAAAAAAAAAAAAQAAAAAAAEAAAAAAAAABAA=</HashCode>
+      <FileName>Chapter7\Petient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

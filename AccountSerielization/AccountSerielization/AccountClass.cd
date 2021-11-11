@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AccountSerielization.Account1" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Account1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccountSerielization.Program">
+    <Position X="4.25" Y="1" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAEAABABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccountSerielization.Model.Account">
+    <Position X="2.5" Y="1" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAFAAA=</HashCode>
+      <FileName>Model\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
