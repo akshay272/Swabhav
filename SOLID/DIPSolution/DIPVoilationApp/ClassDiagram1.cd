@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DIPVoilationApp.HighLevelModule.TaxCalculatorcs">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HighLevelModule\TaxCalculatorcs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPVoilationApp.LowLevelModule.DBLogger">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LowLevelModule\DBLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPVoilationApp.LowLevelModule.FileLogger">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LowLevelModule\FileLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPVoilationApp.Program" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DIPVoilationApp.HighLevelModule.LogType">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAABA=</HashCode>
+      <FileName>HighLevelModule\LogType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
