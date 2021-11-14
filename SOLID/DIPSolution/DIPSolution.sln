@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPVoilationApp", "DIPVoilationApp\DIPVoilationApp.csproj", "{4E55AE62-C53A-4B70-B387-645DA3144A44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPSolutionApp", "DIPSolutionApp\DIPSolutionApp.csproj", "{A9E99555-BFCE-4EAD-8F15-EC3B6EA15DE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4E55AE62-C53A-4B70-B387-645DA3144A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E55AE62-C53A-4B70-B387-645DA3144A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E55AE62-C53A-4B70-B387-645DA3144A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E99555-BFCE-4EAD-8F15-EC3B6EA15DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E99555-BFCE-4EAD-8F15-EC3B6EA15DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E99555-BFCE-4EAD-8F15-EC3B6EA15DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E99555-BFCE-4EAD-8F15-EC3B6EA15DE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

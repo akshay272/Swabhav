@@ -7,10 +7,10 @@ using DIPVoilationApp.HighLevelModule;
 using DIPVoilationApp.LowLevelModule;
 namespace DIPVoilationApp.HighLevelModule
 {
-    class TaxCalculatorcs
+    class TaxCalculator
     {
         private LogType _policy;
-        public TaxCalculatorcs(LogType logPolicy)
+        public TaxCalculator(LogType logPolicy)
         {
             this._policy = logPolicy;
 
@@ -35,8 +35,6 @@ namespace DIPVoilationApp.HighLevelModule
             {
                 Console.WriteLine(ex.Message);
             }
-            
-
             return result;
         }
     }

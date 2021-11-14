@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4E55AE62-C53A-4B70-B387-645DA3144A44}</ProjectGuid>
+    <ProjectGuid>{A9E99555-BFCE-4EAD-8F15-EC3B6EA15DE7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DIPVoilationApp</RootNamespace>
-    <AssemblyName>DIPVoilationApp</AssemblyName>
+    <RootNamespace>DIPSolutionApp</RootNamespace>
+    <AssemblyName>DIPSolutionApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HighLevelModule\LogType.cs" />
+    <Compile Include="CommonModule\ILogger.cs" />
     <Compile Include="HighLevelModule\TaxCalculator.cs" />
     <Compile Include="LowLevelModule\DBLogger.cs" />
     <Compile Include="LowLevelModule\FileLogger.cs" />
@@ -54,6 +54,5 @@
     <None Include="App.config" />
     <None Include="ClassDiagram1.cd" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
